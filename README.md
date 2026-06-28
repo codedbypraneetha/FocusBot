@@ -161,7 +161,7 @@ The project uses an Excel workbook to:
 * Custom distraction categories
 * Email productivity reports
 * AI-based task prioritization
-
+*Export productivity reports as PDF
 ---
 
 ## Learning Outcomes
