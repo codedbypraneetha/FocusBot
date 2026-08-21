@@ -45,11 +45,9 @@ FocusBot helps improve productivity by continuously monitoring the active window
 ```text
 FocusBot
 │
-├── MAIN
-│   ├── Morning.xaml
-│   ├── FocusBot_ActiveWindow.xaml
-│   └── EndOfDayReport.xaml
-│
+├── Morning.xaml
+├── FocusBot_ActiveWindow.xaml
+├── EndOfDayReport.xaml
 ├── Test.xlsx
 ├── project.json
 └── README.md
