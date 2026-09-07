@@ -100,7 +100,7 @@
       <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="EndOfDayReport" sap:VirtualizedContainerService.HintSize="897.2,2215.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="EndOfDayReport" sap:VirtualizedContainerService.HintSize="699.6,2215.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="report" />
       <Variable x:TypeArguments="x:Double" Name="focusScore" />
